@@ -297,6 +297,7 @@ QualitySettings:
     Nintendo Switch: 0
     PS4: 0
     PS5: 4
+    Server: 0
     Stadia: 0
     Standalone: 4
     WebGL: 0
